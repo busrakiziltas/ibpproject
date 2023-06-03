@@ -1,3 +1,3 @@
 # ibpproject
 insan kaynakları yönetim sistemi
-2015010213036 Büşra Kızıltaş 
+Computer Engineering( Day I ) Internet Based Programming Course Project 2015010213036 Büşra Kızıltaş 
