@@ -1,0 +1,23 @@
+
+Database Table Name: hrsystemci
+
+
+
+
+**User Login Details** 
+
+Super Admin:
+
+Email   : zeynep@gmail.com
+Password: Z1234321
+
+
+Admin:
+
+Email   : busra@gmail.com
+Password: S1234321
+
+employee:
+
+Email   : kiziltas@gmail.com
+Password: A1234321
